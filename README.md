@@ -15,5 +15,7 @@ Meu nome é Pietro e sou um programador iniciante. Gosto de aprender sobre tecno
 </div>
 
 ## Você pode entrar em contato comigo por aqui 📫
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](pietrogomes.contato@gmail.com) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/pietrobgomes)
+<div>
+  <a href="mailto:pietrogomes.contato@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/pietrobgomes" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
